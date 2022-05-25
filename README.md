@@ -1,9 +1,9 @@
 # Assignment on Storybook
 
 ## What is storybook
-Storybook is a javaScript tool and it is a UI development environment to create component independently and showcase of components interactively in an isolated development environment. Storybook allows you to see and  interect with your components. When a component is created then you can see its behaviour,actions and what it actually do and why is it created for. It gives you a clear documentation about component. In word, storybook helps us to visually test our application before construction.
+Storybook is a javaScript tool and it is a UI development environment to create component independently and showcase of components interactively in an isolated development environment. Storybook allow us to see and  interect with our components. When a component is created then we can see its behaviour, actions and what it actually does and why is it created for. It gives us a clear documentation about component. In a word, storybook helps us to visually test our application components before the application has been built.
 
-It is essentially a component catalogue that makes it easier for designers and developers to work together to meet the needs of an ever changing application landscape. Here designers no need to take temporary page for test their component. They can easily test their creation from storybook's provided server.
+It is an essential component catalogue that makes team work easier for designers and developers and allow to work together to meet the needs of an ever changing application landscape. After storybook, it is no longer required to create a test project/file to develop and test UI components for designers. They can easily test their creation on storybook and documented their works properly.
 
 ## Features
 - Showcase your components
