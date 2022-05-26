@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import './Button.css'
 
 
-function Button({label, backgroundColor = 'red',size = 'md',onClick}) {
+const Button =({label, backgroundColor = 'red',size = 'md',onClick})=> {
    let scale =1;
    if(size === 'sm') scale = 0.75
    if(size ==='lg') scale = 1.5
